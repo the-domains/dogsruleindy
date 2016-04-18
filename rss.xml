@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DogsRuleIndy]]></title>
+        <description><![CDATA[DogsRuleIndy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Apr 2016 22:33:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Artist Bio - David]]></title>
+            <description><![CDATA[<article><h1>Artist Bio - David</h1><p>David's love of animals and chiildhood on a local farm led to combining his passion for both photography and animals into one. Though he loves all aspects of the work he does from corporate identity to families, weddings and product photography, animals will always remain his passion. David studied both portrait and commercial photogarphy at IVY Tech State College in Columbus and with some of the top photographers in the states. With over 20 years professional experiece he can solve just about any photo mystery and provide you with just the right image for your project.</p></article>]]></description>
+            <link>http://pridebites.com/collections/on-sale-all-products/products/base-camp-toy-basket</link>
+            <guid isPermaLink="false">f82cdc62-d4e4-4197-9711-7c629fa76f87</guid>
+            <pubDate>Mon, 18 Apr 2016 22:33:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
