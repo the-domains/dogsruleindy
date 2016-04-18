@@ -1,6 +1,6 @@
 name: DogsRuleIndy
 favicon: null
-layout_spectrum: 0.9297614286188036
+layout_spectrum: 0.9215
 typography_spectrum: 0.5807704038452357
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#fefefe'
+    - '#060606'
+    - '#b7a090'
+    - '#025f9f'
+    - '#3fdaf8'
   brandStrength: 0.4446095081511885
   lightness: 0.21370372013188899
   saturation: 0.12144045508466661
